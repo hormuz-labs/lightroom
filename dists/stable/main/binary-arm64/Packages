@@ -1,0 +1,21 @@
+Package: manul
+Architecture: arm64
+Version: 0.4.46
+Priority: optional
+Section: video
+Maintainer: Hormuz Labs <hello@hormuz-labs.dev>
+Installed-Size: 846125
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0, libasound2t64 | libasound2
+Recommends: libappindicator3-1
+Filename: pool/v0.4.46/manul_0.4.46_arm64.deb
+Size: 379609500
+MD5sum: 074592e2f5492305bcb245d4a941d562
+SHA1: eec0aeb76701ea198128a2697525c5672163ee76
+SHA256: 54309fa6f438b9cd9e11c4def0ec9b68d3e8c9ccdf7338e41553f2f2a50ed9d9
+SHA512: c841c24df0f0bc5c99790597bbdac2265234ad0e0254b19d7e9fa03056fe3a7857ba5f36c3d9fff6cc090d28a029bb4d5af86db509f9a18d5f35cf4bfce1697a
+Homepage: https://github.com/hormuz-labs/agentshot
+Description: An agentic video editor
+  Drop in a video, say what you want, and AgentShot does the edit.
+License: GPL-3.0-or-later
+Vendor: Hormuz Labs <hello@hormuz-labs.dev>
+

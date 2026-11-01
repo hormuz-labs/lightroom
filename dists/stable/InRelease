@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Sun, 01 Nov 2026 02:10:04 +0000
+Label: AgentShot
+Origin: Hormuz Labs
+Suite: stable
+MD5Sum:
+ dcb997e9f2eae2ac464cefbdc85b5910              912 main/binary-amd64/Packages
+ 7a5cdeaf6ddc641c6ebaf1db94d93fb0              610 main/binary-amd64/Packages.gz
+ aa346ba57c6179b00293e18512690f2a              912 main/binary-arm64/Packages
+ 00daa0ebdd5bafcf06c81026b6906fe2              614 main/binary-arm64/Packages.gz
+SHA1:
+ 2980aa179e86256b89b11ff5e21d4788067a3261              912 main/binary-amd64/Packages
+ f7472e67b490dc37c199cf921c691d7de09edf26              610 main/binary-amd64/Packages.gz
+ 1a9fabe9f9f29e4773206c5b14077eebf299e788              912 main/binary-arm64/Packages
+ 34ca9041734d41e561427e0fc751a91f0318be86              614 main/binary-arm64/Packages.gz
+SHA256:
+ 193c8bce6a6189772bea6aeba0c7ce8f490f7e63aaa3312ccae3eff130ddb721              912 main/binary-amd64/Packages
+ ca1dd5c8d8d9e58683230074e624d2994ee5c34143f1b846be41b118a035f798              610 main/binary-amd64/Packages.gz
+ 3d3b552094d376d9b22978efeabfd4dc68dc90ce426405500842853f48fa4a49              912 main/binary-arm64/Packages
+ 56fc82f8e2c2468cbb25a51c348180d68420ffe9e8761eea49f9ff762e838403              614 main/binary-arm64/Packages.gz
+SHA512:
+ 56d7cd045b802eba60013dcf2d721f0fad22d064bcf6ddcec9b034897ead4f45ff6d66370d165d4058b44b0f47c6c9fa9e7324d7bc5de6ff85ebed352c1ba3c1              912 main/binary-amd64/Packages
+ 52b5cc18fb73ebd4c67db912bec0847b609812fc6d766550c1c76426a867adae84ba3af636e608b092a1718e2bdb084f802c77f3debe851a2c350d8d9bc05595              610 main/binary-amd64/Packages.gz
+ 30db3fd47e5fa173008e8fe43cfc7d9dd487d7aed59867ec4a0324f691ab1ae132137e45510755c9562c07be9d8cc430fa44570e9e512d7651f6bb213dfa43ab              912 main/binary-arm64/Packages
+ 869ed8cf795c628a521583a1346abc500a3b6a6a9f73e0307e084ef237e87d340995bb916dcb9a51717d85167f75a67768908152721528f36bd8abb176bcc9b4              614 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQRQ1R9TEYvmqHaN4GPH/vThf5VwKQUCauaffAAKCRDH/vThf5Vw
+KXDrAPsGMLFijMchOuOwAURT/K21/f+KbwmCVXeM3o7FoY10pAEAxL9lxBLCKH/6
+4ULOBSvx5elxAifeZW6C9BT38EOFEAY=
+=TIzJ
+-----END PGP SIGNATURE-----
